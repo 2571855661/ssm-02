@@ -19,6 +19,7 @@ public class Test01 {
         System.out.println("----------");
 
 
+
 //        		Integer i5 = Integer.valueOf(128);
 //	    Integer i6 = Integer.valueOf(128);
         Integer  i5 = 128; //自动装箱
